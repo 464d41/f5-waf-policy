@@ -1,6 +1,6 @@
 {
   "name": "f5-waf-policy",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Implements F5 WAF policy",
   "main": "index.js",
   "scripts": {
